@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://envshare.dev">envshare.dev</a>
+  <a href="https://envshare-strix.vercel.app/">envshare</a>
 </div>
 <br/>
 
@@ -35,7 +35,7 @@ key never leaves your browser.
 
 ## Deploy your own
 
-Detailed instructions can be found [here](https://envshare.dev/deploy)
+Detailed instructions can be found [here](https://envshare-strix.vercel.app/deploy)
 
 All you need is a Redis database on Upstash and a Vercel account. Click the
 button below to clone and deploy:
@@ -43,28 +43,6 @@ button below to clone and deploy:
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-title=EnvShare&demo-description=Simple%20Next.js%20%2B%20Upstash%20app%20to%20share%20environment%20variables%20securely%20using%20AES-GCM%20encryption.&demo-url=https%3A%2F%2Fenvshare.dev%2F&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F5SaFBHXp5FBFJbsTzVqIJ3%2Ff0f8382369b7642fd8103debb9025c11%2Fenvshare.png&project-name=EnvShare&repository-name=envshare&repository-url=https%3A%2F%2Fgithub.com%2Fchronark%2Fenvshare&from=templates&integration-ids=oac_V3R1GIpkoJorr6fqyiwdhl17)
 
 
-## Sponsors
-
-<table>
-<tr>
-<td>
-  <img width="1000" height="0">
-  <a href="https://upstash.com/?utm_source=envshare" >
-  <img src="https://raw.githubusercontent.com/upstash/sponsorship/master/redis.png" alt="Upstash" width="260" align="right">
-  </a>
-<h3>Upstash: Serverless Database for Redis</h3>
-
-<ul>
-    <li>Serverless Redis with global replication and durable storage</li>
-    <li>Price scales to zero with per request pricing</li>
-    <li>Built-in REST API designed for serverless and edge functions</li>
-  </ul>
-
-[Start for free in 30 seconds!](https://upstash.com/?utm_source=envshare)
-
-</td>
-</tr>
-</table>
 
 ## Configuration
 
